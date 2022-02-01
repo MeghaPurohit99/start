@@ -1,5 +1,6 @@
-gitpython/design_structures/animationcircle.py
-gitpython/secretkey.txt
-gitpython/design_structures/tp.py
-gitpython/diff.java
+gitpython\design_structures\circle.py
+gitpython\secretkey.txt
+gitpython\design_structures\tp.py
+gitpython\diff.java
+gitpython\try.py
 .gitignore
