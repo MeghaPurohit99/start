@@ -2,7 +2,7 @@ class arithmetic
 {
 	public static void main(String args[])
 	{
-		int a=11,b=22,c=0,d=0,m=0;
+		int a=111,b=22,c=0,d=0,m=0;
 		c=a+b;
         d = b-a;
         m = a*b;
