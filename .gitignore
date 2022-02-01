@@ -2,4 +2,4 @@ gitpython/design_structures/animationcircle.py
 gitpython/secretkey.txt
 gitpython/design_structures/tp.py
 gitpython/diff.java
-gitpython/.gitignore
+.gitignore
