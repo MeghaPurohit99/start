@@ -1,6 +1,7 @@
 secretkey.txt
 diff.java
 try.py
-/design_pattern/circle.py
-/design_pattern/tp.py
+/circle.py
+/tp.py
 arithmetic.java
+.gitignore
