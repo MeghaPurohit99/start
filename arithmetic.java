@@ -7,8 +7,8 @@ class arithmetic
 		c=a+b;
         d = b-a;
         m = a*b;
-		System.out.println(c);
-        System.out.println(d);
-        System.out.println(m);
+		System.out.println("addition is : "+c);
+        System.out.println("difference is : "+d);
+        System.out.println("multiplication is : "+m);
 	}
 }
